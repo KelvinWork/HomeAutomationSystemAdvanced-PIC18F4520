@@ -1,5 +1,8 @@
 # Home_Automation_System_Advanced
-This program was designed and developed in **C language** using PIC18F4520 microchip. This programe is a advanced continuation of the home automation system. 
+This program was designed and developed in **C language** using PIC18F4520 microchip. 
+
+##Note
+This programe is a advanced continuation of the home automation system. 
 Where techniques such as Pulse-Width Modulation (PWM), Analog to Digital Converter and power management is being utilised and integrated to the system.
 
 ## Project Objectives
