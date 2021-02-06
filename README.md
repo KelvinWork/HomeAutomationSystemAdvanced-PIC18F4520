@@ -22,12 +22,12 @@ and turn on and control the brightness of the bulb with pulse width modulation.
 
 This project was completed in *08/02/2020* alongside with my team memember
 
-NAMES |
------------- | -------------
-POH BOON HOE KELVIN |
-LIAN EXELBERT ANIER TAN | 
-YONG XUE HAN |
-NG KAI SIEN RYANN | 
+| NAMES |
+------------ |
+|POH BOON HOE KELVIN |
+| LIAN EXELBERT ANIER TAN | 
+| YONG XUE HAN |
+| NG KAI SIEN RYANN | 
 
 
 
