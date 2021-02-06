@@ -3,7 +3,7 @@ This program was designed and developed in **C language** using PIC18F4520 micro
 
 ## Note
 This programe is a advanced continuation of the home automation system. 
-Where techniques such as Pulse-Width Modulation (PWM), Analog to Digital Converter and power management is being utilised and integrated to the system.
+Where techniques such as Pulse-Width Modulation (PWM), Analog to Digital Converter and power management is being utilised and integrated into the system.
 
 ## Project Objectives
 Mr. Tan is running his own company specializing in home automation. You have been approached by Mr. Tan to develop an embedded prototype for introducing new IoT technology to implement SMART sustainable home solutions. The prototype shall eventually provide useful attributes to the management team for introducing new products.
