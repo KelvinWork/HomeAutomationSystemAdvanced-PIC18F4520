@@ -1,7 +1,7 @@
 # Home_Automation_System_Advanced
 This program was designed and developed in **C language** using PIC18F4520 microchip. 
 
-##Note
+## Note
 This programe is a advanced continuation of the home automation system. 
 Where techniques such as Pulse-Width Modulation (PWM), Analog to Digital Converter and power management is being utilised and integrated to the system.
 
@@ -22,10 +22,12 @@ and turn on and control the brightness of the bulb with pulse width modulation.
 
 This project was completed in *08/02/2020* alongside with my team memember
 
-POH BOON HOE KELVIN 
-LIAN EXELBERT ANIER TAN 
-YONG XUE HAN 
-NG KAI SIEN RYANN 
+NAMES |
+------------ | -------------
+POH BOON HOE KELVIN |
+LIAN EXELBERT ANIER TAN | 
+YONG XUE HAN |
+NG KAI SIEN RYANN | 
 
 
 
