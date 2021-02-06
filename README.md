@@ -20,6 +20,13 @@ Our project is to implement SMART sustainable home solutions. We were able to in
 management to the PIC18F4520 microchip to design a smart home system that use energy saving features such as sleep and idle to save power, control the air conditioning with a knob,
 and turn on and control the brightness of the bulb with pulse width modulation.
 
+This project was completed in *08/02/2020* alongside with my team memember
+
+POH BOON HOE KELVIN 
+LIAN EXELBERT ANIER TAN 
+YONG XUE HAN 
+NG KAI SIEN RYANN 
+
 
 
 ## Flowchart Diagram of the System
